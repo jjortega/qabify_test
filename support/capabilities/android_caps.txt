@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+app = "apps/qabify.apk"
+deviceName = "Nexus 5"
+appWaitPackage = "com.android.packageinstaller"
+appWaitActivity = ".permission.ui.GrantPermissionsActivity"
